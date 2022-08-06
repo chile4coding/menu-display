@@ -1,3 +1,3 @@
 # menu-display
-#A menu display project with the functionality to:
+# A menu display project with the functionality to:
 # filter display
